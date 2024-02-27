@@ -9,4 +9,4 @@ Ao clicar num dos botões à direita, aparecerá na tela do celular a imagem da 
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 
 ## Como Visualizar
-Basta clicar em [Redes Sociais (yan2024.github.io)](https://yan2024.github.io/Projeto_Redes/) que o site abrirá num navegador da web.
+Basta clicar em [Redes Sociais (yan2024.github.io)](https://yan2024.github.io/redes/) que o site abrirá num navegador da web.
